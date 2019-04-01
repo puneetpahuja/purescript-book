@@ -1,0 +1,16 @@
+{
+  "name": "filesystem",
+  "set": "psc-0.12.2",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "arrays",
+    "console",
+    "control",
+    "effect",
+    "foldable-traversable",
+    "maybe",
+    "prelude",
+    "psci-support",
+    "strings"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "untitled",
+  "set": "psc-0.12.2",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "console",
+    "lists",
+    "effect",
+    "prelude",
+    "psci-support"
+  ]
+}
