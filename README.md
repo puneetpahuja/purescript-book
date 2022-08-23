@@ -1,2 +1,2 @@
-# purescript-book
-Exercises of the book - Purescript by example
+# Purescript by Example
+Exercises of the book: **_Purescript by Example_**
